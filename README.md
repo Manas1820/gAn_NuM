@@ -14,4 +14,4 @@ Developing a GAN for Generating MNIST Handwritten Digits
 
 
 
-[Referred material]("https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/")
+[Referred material](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)
